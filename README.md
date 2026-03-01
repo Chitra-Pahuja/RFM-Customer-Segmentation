@@ -8,10 +8,12 @@ Segmenting 540K+ online retail transactions into actionable customer groups usin
 
 ---
 
-3D Cluster Plot <img width="586" height="582" alt="cluster_3d" src="https://github.com/user-attachments/assets/92024528-6207-4f12-a318-01dd435e2269" />
+3D Cluster Plot
+<img width="586" height="582" alt="cluster_3d" src="https://github.com/user-attachments/assets/8c023146-372a-4b72-9e54-bcd0e7a6fe73" />
 
 
-RFM Heatmap <img width="665" height="550" alt="rfm_heatmap" src="https://github.com/user-attachments/assets/9265e2e2-89d2-4dd6-9b6f-1dd6ff846d20" />
+RFM Heatmap
+<img width="665" height="550" alt="rfm_heatmap" src="https://github.com/user-attachments/assets/1c6fdb92-7529-4f1c-8608-f435df3ae2c1" />
 
 ---
 
@@ -36,6 +38,8 @@ RFM Heatmap <img width="665" height="550" alt="rfm_heatmap" src="https://github.
 ## Dataset
 
 [UCI Online Retail Dataset](https://archive.ics.uci.edu/ml/datasets/online+retail) — 541,909 transactions from a UK-based online retailer (Dec 2010 – Dec 2011).
+
+> **Note:** The dataset is not included in this repo due to file size. Download it from the link above and place `data.csv` in the root directory before running the notebook.
 
 **Features:** InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country
 
